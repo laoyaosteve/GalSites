@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⭐优质GalGame资源站目录⭐
+# ⭐免费GalGame资源站目录⭐
 [![QQ群](https://img.shields.io/badge/QQ群-787128349-blue?style=flat&logo=tencent-qq)](https://qm.qq.com/q/vYhkrip9Oa)
 
 </div>
