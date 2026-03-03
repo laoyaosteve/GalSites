@@ -29,6 +29,7 @@
 | **站点名称**     | **链接**                                 | **相关站点**                                                                                   | **备注**     |
 |--------------|----------------------------------------|--------------------------------------------------------------------------------------------|------------|
 | 0721_Galgame | https://nn0721.icu/                    | -                                                                                          | -          |
+| Acgngame     | https://acgn.games/                    | -                                                                                          | -          |
 | Angelmoe     | https://www.angelmoe.com/              | [地址发布页](https://sway.cloud.microsoft/zq6TBTswVTEokPF3?ref=Link)                            | 需登录        |
 | GALBase      | https://galbase.top/                   | [地址发布页](https://home.galbase.top/)                                                         |            |
 | Galgamex     | https://www.galgamex.top/              | -                                                                                          | -          |
@@ -78,7 +79,6 @@
 | **站点名称**   | **链接**                    |
 |------------|---------------------------|
 | 宁宇资源站      | https://ningyu.ga/        |
-| GalWorld   | https://acgngame.top/     |
 | GalX次元     | http://223323.xyz/        |
 | 莉莉絲の遊戲原盤倉庫 | https://sakakirio.com/    |
 | 穹之下        | https://www.soraacg.com/  |
